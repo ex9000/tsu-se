@@ -10,3 +10,4 @@ verified
 bad username
 bad user name only
 fake sign
+exising
